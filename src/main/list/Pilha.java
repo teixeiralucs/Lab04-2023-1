@@ -4,7 +4,7 @@ public interface Pilha{
 
     public boolean isEmpty();
      
-     public void push(int item);
+    public void push(int item);
   
-     public int pop();
+    public int pop();
 }

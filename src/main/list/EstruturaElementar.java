@@ -16,6 +16,6 @@ public interface EstruturaElementar {
     
     public void remove(int valor);
     public void removeIndice(int indice);
-    public void removeInicio();
+    public int removeInicio();
     public void removeFim();
 }
